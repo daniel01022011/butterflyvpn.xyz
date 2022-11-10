@@ -377,5 +377,3 @@ install_security
 install_stunnel_dropbear
 install_squid
 install_slowdns
-ConfigAuthentication()
-rebootserver
